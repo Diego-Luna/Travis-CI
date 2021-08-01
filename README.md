@@ -1,5 +1,7 @@
 # Travis-CI
 
+Rama: develop
+
 * CI equivale a integración continua o continuous integration, objetivo principal preparar y servir cuanto antes una release del Software de forma rápida, sencilla y ágil.
 
 * CD por su parte, puede equivaler a entrega continua (continuous delivery) o despliegue continuo (continuous deployment), es el siguiente paso de la integración continua. De hecho, en muchos círculos se la conoce como una extensión de la integración continua. Su objetivo no es otro que el de proporcionar una manera ágil y fiable de poder entregar o desplegar los nuevos cambios a los clientes.
