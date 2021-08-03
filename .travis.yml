@@ -10,6 +10,7 @@ git:
 script:
   - yarn build
 notifications:
+  # slack: workspace:token
   email:
     recipients:
     - diegofcolunalopez@gmail.com
